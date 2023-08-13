@@ -1,1 +1,2 @@
-# .github
+# kotolopetts
+website: https://kotolopetts.com
